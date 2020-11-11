@@ -17,7 +17,7 @@
     "start": "node index.js",
     "dev": "nodemon index.js",
     "test": "echo \"Error: no test specified\" && exit 1",
-    "build": "node index.js && cp -r markdown/* ../my-first-gatsby-site/src/pages/ && cd ../my-first-gatsby-site/ gastsby develop"
+    "build": "node index.js && cp -r markdown/* ../my-first-gatsby-site/src/pages/"
   },
   "author": "",
   "license": "ISC"
