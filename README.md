@@ -1,5 +1,7 @@
 # Extract Articles
 
+![](usage-demo.gif)
+
 Designed to extract artciles from UT Research Division
 
 ## Usage
