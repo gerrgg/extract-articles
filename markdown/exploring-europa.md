@@ -1,6 +1,6 @@
 --- 
 title: Exploring Europa
-date: 2015-9-23
+date: 1445572800000
 category: Institute for Geophysics | Jackson School of Geosciences
 ---
 

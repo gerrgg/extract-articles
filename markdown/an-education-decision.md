@@ -1,6 +1,6 @@
 --- 
 title: An Education Decision
-date: 2018-0-11
+date: 1515646800000
 category: Department of Sociology | College of Liberal Arts
 ---
 

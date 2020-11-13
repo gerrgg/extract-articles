@@ -1,6 +1,6 @@
 --- 
 title: Pterodactyls at Dusk
-date: 2018-2-27
+date: 1522123200000
 category: Vertebrate Paleontology Laboratory | Jackson School of Geosciences
 ---
 

@@ -1,6 +1,6 @@
 --- 
 title: The Rock Washer
-date: 2018-10-8
+date: 1541653200000
 category: Department of Petroleum & Geosystems Engineering | Cockrell School of Engineering
 ---
 

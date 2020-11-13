@@ -1,6 +1,6 @@
 --- 
 title: Perspectives on Undergraduate Research
-date: 2018-3-20
+date: 1524196800000
 category: Office of Undergraduate Research | School of Undergraduate Studies
 ---
 

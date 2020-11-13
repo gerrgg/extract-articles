@@ -1,6 +1,6 @@
 --- 
 title: Dancing With Flamingos
-date: 2018-8-21
+date: 1537502400000
 category: Department of Art & Art History | College of Fine Arts
 ---
 

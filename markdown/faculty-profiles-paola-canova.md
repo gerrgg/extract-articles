@@ -1,6 +1,6 @@
 --- 
 title: Faculty Profiles| Paola Canova
-date: 2016-5-8
+date: 1465358400000
 category: Teresa Lozano Long Institute of Latin American Studies | College of Liberal Arts
 ---
 

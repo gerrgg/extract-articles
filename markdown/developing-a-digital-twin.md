@@ -1,6 +1,6 @@
 --- 
 title: Developing a Digital Twin
-date: 2019-11-4
+date: 1575435600000
 category: Oden Institute for Computational Engineering & Sciences | Office of the Vice President for Research
 ---
 

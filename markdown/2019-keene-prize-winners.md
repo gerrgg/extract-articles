@@ -1,6 +1,6 @@
 --- 
 title: 2019 Keene Prize Winners
-date: 2019-4-6
+date: 1557115200000
 category: College of Liberal Arts
 ---
 

@@ -1,6 +1,6 @@
 --- 
 title: Robots in Real Time
-date: 2020-8-21
+date: 1600660800000
 category: Office of the Vice President for Research
 ---
 

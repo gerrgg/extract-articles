@@ -1,6 +1,6 @@
 --- 
 title: Corwin Zigler
-date: 2020-2-6
+date: 1583470800000
 category: Department of Statistics & Data Science | College of Natural Sciences
 ---
 

@@ -1,6 +1,6 @@
 --- 
 title: Starving Prostate Cancer Cells
-date: 2017-5-8
+date: 1496894400000
 category: Division of Pharmacology & Toxicology | College of Pharmacy
 ---
 

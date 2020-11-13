@@ -1,6 +1,6 @@
 --- 
 title: Imaging, Reimagined
-date: 2019-1-18
+date: 1550466000000
 category: Department of Mathematics | College of Natural Sciences
 ---
 

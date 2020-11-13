@@ -1,6 +1,6 @@
 --- 
 title: One of a Kind
-date: 2018-11-3
+date: 1543813200000
 category: Cockrell School of Engineering
 ---
 

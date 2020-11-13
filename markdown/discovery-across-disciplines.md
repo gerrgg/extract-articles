@@ -1,6 +1,6 @@
 --- 
 title: Discovery Across Disciplines
-date: 2017-4-4
+date: 1493870400000
 category: Office of the Vice President for Research
 ---
 

@@ -1,6 +1,6 @@
 --- 
 title: Will Art Save Us?
-date: 2020-9-20
+date: 1603166400000
 category: College of Fine Arts
 ---
 

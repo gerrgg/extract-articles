@@ -1,6 +1,6 @@
 --- 
 title: Fueling the Future
-date: 2017-9-9
+date: 1507521600000
 category: Department of Geological Sciences | Jackson School of Geosciences
 ---
 

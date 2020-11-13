@@ -1,6 +1,6 @@
 --- 
 title: Slow Slip
-date: 2015-8-8
+date: 1441684800000
 category: Institute for Geophysics | Jackson School of Geosciences
 ---
 

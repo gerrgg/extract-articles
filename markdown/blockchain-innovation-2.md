@@ -1,6 +1,6 @@
 --- 
 title: Blockchain Innovation
-date: 2018-10-12
+date: 1541998800000
 category: McCombs School of Business
 ---
 

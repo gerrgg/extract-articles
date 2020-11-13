@@ -1,6 +1,6 @@
 --- 
 title: Music Sensing
-date: 2017-8-1
+date: 1504238400000
 category: Department of Mechanical Engineering | Cockrell School of Engineering
 ---
 

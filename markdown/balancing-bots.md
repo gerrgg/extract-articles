@@ -1,6 +1,6 @@
 --- 
 title: Balancing Bots
-date: 2018-10-1
+date: 1541044800000
 category: Department of Aerospace Engineering & Engineering Mechanics | Cockrell School of Engineering
 ---
 

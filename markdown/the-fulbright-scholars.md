@@ -1,6 +1,6 @@
 --- 
 title: The Fulbright Scholars
-date: 2020-0-13
+date: 1578891600000
 category: Center for Petroleum & Geosystems Engineering | Cockrell School of Engineering
 ---
 

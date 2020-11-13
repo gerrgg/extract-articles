@@ -1,6 +1,6 @@
 --- 
 title: Undergraduate Research Week 2018
-date: 2018-3-20
+date: 1524196800000
 category: College of Liberal Arts
 ---
 

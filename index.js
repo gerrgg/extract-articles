@@ -1,3 +1,8 @@
+/**
+ * Author: Greg Bastianelli
+ * Extract posts and conver to markdwon files
+ */
+
 // call local json file
 const articles = require("./uta-showcase.json");
 
@@ -69,9 +74,6 @@ const buildMarkdownFromUrl = async (url) => {
   }
 };
 
-const formatDate = (date) => {
-  const oldDate = new Date(date);
-  return `${oldDate.getFullYear()}-${oldDate.getMonth()}-${oldDate.getDate()}`;
-};
+const formatDate = (date) => Date.parse(date);
 
 init();

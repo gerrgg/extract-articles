@@ -1,6 +1,6 @@
 --- 
 title: Design, Meet Research
-date: 2019-1-28
+date: 1551330000000
 category: Office of the Vice President for Research
 ---
 

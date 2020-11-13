@@ -1,6 +1,6 @@
 --- 
 title: Thanks, but No Thanks
-date: 2018-7-27
+date: 1535342400000
 category: Department of Marketing | McCombs School of Business
 ---
 

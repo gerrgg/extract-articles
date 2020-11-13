@@ -1,6 +1,6 @@
 --- 
 title: Research Administrator Awards
-date: 2017-9-2
+date: 1506916800000
 category: Office of the Vice President for Research
 ---
 

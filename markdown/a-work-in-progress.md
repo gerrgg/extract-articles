@@ -1,6 +1,6 @@
 --- 
 title: A Work In Progress
-date: 2019-10-11
+date: 1573448400000
 category: College of Fine Arts
 ---
 

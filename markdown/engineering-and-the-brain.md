@@ -1,6 +1,6 @@
 --- 
 title: Engineering and the Brain
-date: 2016-9-26
+date: 1477454400000
 category: Cockrell School of Engineering
 ---
 

@@ -1,6 +1,6 @@
 --- 
 title: Manipulating Neurons
-date: 2018-2-14
+date: 1521000000000
 category: Department of Neuroscience | College of Natural Sciences
 ---
 

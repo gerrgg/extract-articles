@@ -1,6 +1,6 @@
 --- 
 title: Futuristic Fabric
-date: 2017-11-1
+date: 1512104400000
 category: School of Human Ecology | College of Natural Sciences
 ---
 
