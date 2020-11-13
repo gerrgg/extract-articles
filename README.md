@@ -18,11 +18,11 @@ I wrote this simple app to scrape articles from research.utexas.edu.
 
 I could not find a public API for the articles
 
-So first I used `$ googler site:yousitehere.com --json >> results.json` to do a site search of the target website and save to a json file.
+So first I used `$ googler site:yousitehere.com --json >> results.json` to do a site search of the target and save output to .json file.
 
 ### Scrape content
 
-After extracting the urls to an array, we each to `buildMarkdownFromUrl`.
+After extracting the urls to an array, we pass each url through `buildMarkdownFromUrl`.
 
 First we create a slug from the url
 
